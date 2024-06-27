@@ -1,1 +1,1 @@
-metatube/metatube-server
+metatube/metatube-server:latest
