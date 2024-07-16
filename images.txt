@@ -1,1 +1,1 @@
-laoyutang/clash-and-dashboard:latest
+dreamacro/clash
