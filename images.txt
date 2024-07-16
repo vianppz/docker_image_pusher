@@ -1,1 +1,1 @@
-metatube/metatube-server:latest
+laoyutang/clash-and-dashboard:latest
