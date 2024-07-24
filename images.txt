@@ -1,1 +1,1 @@
-percona/percona-xtradb-cluster:8.0
+traefik:v3.1.0
